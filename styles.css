@@ -1,0 +1,66 @@
+img{
+    border-radius: 200px;
+    width: 60px;
+    margin-bottom: 10px;
+}
+body{
+    background-color: hsl(0, 0%, 8%) ;
+}
+.main_box{
+    background-color: hsl(0, 0%, 12%);
+    margin: auto;
+    width: 22%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 8px;
+    margin-top: 200px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    margin-bottom: 24px;
+}
+.namey{
+    color :white;
+   
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: larger;
+    margin-bottom: 8px;
+}
+.country{
+    color:hsl(75, 94%, 57%) ;
+    margin-bottom: 20px;
+    font-size: small;
+    
+}
+.about{
+    color :white;
+    margin-bottom: 20px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: x-small;
+}
+.github,
+.frontendmentor,
+.linkedin,
+.twitter,
+.instagram{
+    margin-bottom: 10px;
+}
+.front,
+.git,
+.linkd,
+.tweet,
+.insta{
+    width: 250px;
+    padding: 10px;
+    background-color:hsl(0, 0%, 20%);
+    border: none;
+    color: white;
+    border-radius: 6px;
+    font-family:'Inter', sans-serif;
+    font-weight: 400;
+}
+.last{
+    color: white;
+}
